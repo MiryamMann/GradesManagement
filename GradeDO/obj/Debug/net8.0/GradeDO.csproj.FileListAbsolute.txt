@@ -1,0 +1,22 @@
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll

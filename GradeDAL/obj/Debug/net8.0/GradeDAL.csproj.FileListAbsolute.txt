@@ -1,0 +1,78 @@
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\appsettings.Development.json
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\appsettings.json
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.exe
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.deps.json
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.runtimeconfig.json
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.pdb
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDO.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDO.pdb
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.csproj.AssemblyReference.cache
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.AssemblyInfoInputs.cache
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.AssemblyInfo.cs
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.csproj.CoreCompileInputs.cache
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.MvcApplicationPartsAssemblyInfo.cache
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets.build.json
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets.development.json
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets\msbuild.GradeDAL.Microsoft.AspNetCore.StaticWebAssets.props
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets\msbuild.build.GradeDAL.props
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GradeDAL.props
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GradeDAL.props
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets.pack.json
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\scopedcss\bundle\GradeDAL.styles.css
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.csproj.Up2Date
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\refint\GradeDAL.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.pdb
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.genruntimeconfig.cache
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\obj\Debug\net8.0\ref\GradeDAL.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.AspNetCore.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Sinks.File.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\appsettings.Development.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\appsettings.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.exe
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.deps.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDAL.pdb
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.AspNetCore.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\Serilog.Sinks.File.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\bin\Debug\net8.0\GradeDO.pdb
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.csproj.AssemblyReference.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.MvcApplicationPartsAssemblyInfo.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets.build.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets.development.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets\msbuild.GradeDAL.Microsoft.AspNetCore.StaticWebAssets.props
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets\msbuild.build.GradeDAL.props
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GradeDAL.props
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GradeDAL.props
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\staticwebassets.pack.json
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\scopedcss\bundle\GradeDAL.styles.css
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.csproj.Up2Date
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\refint\GradeDAL.dll
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.pdb
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\GradeDAL.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL\obj\Debug\net8.0\ref\GradeDAL.dll

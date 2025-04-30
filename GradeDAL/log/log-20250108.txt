@@ -1,0 +1,223 @@
+[18:01:05 DBG] Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory - Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[18:01:05 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting starting
+[18:01:05 INF] Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7268
+[18:01:05 INF] Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5201
+[18:01:05 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly GradeDAL
+[18:01:05 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[18:01:05 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[18:01:05 INF] Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+[18:01:05 INF] Microsoft.Hosting.Lifetime - Hosting environment: Development
+[18:01:05 INF] Microsoft.Hosting.Lifetime - Content root path: I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL
+[18:01:05 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting started
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M134" accepted.
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M133" accepted.
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M133" received FIN.
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M134" received FIN.
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M134" started.
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M133" started.
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M133" stopped.
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M134" stopped.
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M134" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:05 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M133" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M135" accepted.
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M136" accepted.
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M135" started.
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M136" started.
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M136" received FIN.
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M135" received FIN.
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M135" stopped.
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M136" stopped.
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M135" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M136" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M137" accepted.
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M138" accepted.
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M137" started.
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M138" started.
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M138" received FIN.
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M137" received FIN.
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M137" stopped.
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M138" stopped.
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M137" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:32 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M138" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M139" accepted.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13A" accepted.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M139" started.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13A" started.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M139" received FIN.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13A" received FIN.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M139" stopped.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13A" stopped.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M139" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13A" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13B" accepted.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13B" started.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13C" accepted.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13C" started.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13B" received FIN.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13C" received FIN.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13B" stopped.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13C" stopped.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13B" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13C" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13D" accepted.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13D" started.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13E" accepted.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13D" received FIN.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13E" started.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13D" stopped.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13E" received FIN.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13D" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13E" stopped.
+[18:01:34 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13E" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13F" accepted.
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13F" started.
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13G" accepted.
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13G" started.
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13F" received FIN.
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13F" stopped.
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13G" received FIN.
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13F" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMK9M13G" stopped.
+[18:01:35 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMK9M13G" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:42 DBG] Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory - Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[18:01:42 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting starting
+[18:01:42 INF] Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7268
+[18:01:42 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMVAIFS0" received FIN.
+[18:01:42 INF] Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5201
+[18:01:42 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly GradeDAL
+[18:01:42 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[18:01:42 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[18:01:42 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS0" accepted.
+[18:01:42 INF] Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+[18:01:42 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS0" started.
+[18:01:42 INF] Microsoft.Hosting.Lifetime - Hosting environment: Development
+[18:01:42 INF] Microsoft.Hosting.Lifetime - Content root path: I:\הגשת מבחנים ועבודות\Group2\server\תרגיל 8\מירי מן ורחל פריד\GradeDAL\GradeDAL
+[18:01:42 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting started
+[18:01:42 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:42 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS0" stopped.
+[18:01:42 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMVAIFS0" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS1" accepted.
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS1" started.
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS2" accepted.
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS2" started.
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMVAIFS1" received FIN.
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMVAIFS2" received FIN.
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS2" stopped.
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN9FVMVAIFS1" stopped.
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMVAIFS2" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:01:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN9FVMVAIFS1" sending FIN because: "The Socket transport's send loop completed gracefully."

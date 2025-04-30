@@ -1,0 +1,171 @@
+[18:26:20 DBG] Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory - Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[18:26:20 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting starting
+[18:26:20 INF] Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7268
+[18:26:20 INF] Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5201
+[18:26:20 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly GradeDAL
+[18:26:20 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[18:26:20 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[18:26:20 INF] Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+[18:26:20 INF] Microsoft.Hosting.Lifetime - Hosting environment: Development
+[18:26:20 INF] Microsoft.Hosting.Lifetime - Content root path: H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL
+[18:26:20 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting started
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L966RLI8C" accepted.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L966RLI8D" accepted.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L966RLI8C" started.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L966RLI8D" started.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L966RLI8C" received FIN.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L966RLI8D" received FIN.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L966RLI8C" stopped.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L966RLI8D" stopped.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L966RLI8D" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L966RLI8C" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L966RLI8E" accepted.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L966RLI8E" started.
+[18:26:21 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Connection 0HN8L966RLI8E established using the following protocol: "Tls12"
+[18:26:21 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:7268/ - null null
+[18:26:21 DBG] Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware - Wildcard detected, all requests with hosts will be allowed.
+[18:26:21 DBG] Microsoft.AspNetCore.Routing.Matching.DfaMatcher - 1 candidate(s) found for the request path '/'
+[18:26:21 DBG] Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request matched endpoint 'HTTP: GET /'
+[18:26:21 INF] Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HTTP: GET /'
+[18:26:21 INF] Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HTTP: GET /'
+[18:26:21 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:7268/ - 200 null text/plain; charset=utf-8 124.6228ms
+[18:52:42 DBG] Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory - Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[18:52:42 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting starting
+[18:52:42 INF] Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7268
+[18:52:42 INF] Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5201
+[18:52:42 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly GradeDAL
+[18:52:42 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[18:52:42 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[18:52:42 INF] Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+[18:52:42 INF] Microsoft.Hosting.Lifetime - Hosting environment: Development
+[18:52:42 INF] Microsoft.Hosting.Lifetime - Content root path: H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL
+[18:52:42 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting started
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T15" accepted.
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T15" started.
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9KUA0T15" received FIN.
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T15" stopped.
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9KUA0T15" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T16" accepted.
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T16" started.
+[18:52:43 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Connection 0HN8L9KUA0T16 established using the following protocol: "Tls12"
+[18:52:43 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:7268/ - null null
+[18:52:43 DBG] Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware - Wildcard detected, all requests with hosts will be allowed.
+[18:52:43 DBG] Microsoft.AspNetCore.Routing.Matching.DfaMatcher - 1 candidate(s) found for the request path '/'
+[18:52:43 DBG] Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request matched endpoint 'HTTP: GET /'
+[18:52:43 INF] Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HTTP: GET /'
+[18:52:43 INF] Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HTTP: GET /'
+[18:52:43 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:7268/ - 200 null text/plain; charset=utf-8 171.8006ms
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T17" accepted.
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9KUA0T17" received FIN.
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T17" started.
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T18" accepted.
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T18" started.
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T17" stopped.
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9KUA0T17" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Connection 0HN8L9KUA0T18 established using the following protocol: "Tls12"
+[18:52:52 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST https://localhost:7268/api/StudentsManagmentController?ID=56745&Name=Miri&M_ExeList=[{%22ExeNumber%22=1,%22Name%22=%22lesson1%22,%22Mark%22=100,%22Comment%22=%22you%20are%20amazing!%22}]&M_TestGrade={%22ExeNumber%22=99,%22Name%22=%22test%22,%22Mark%22=100,%22Comment%22=%22you%20are%20amazing!%22} - null 0
+[18:52:52 DBG] Microsoft.AspNetCore.Routing.Matching.DfaMatcher - No candidates found for the request path '/api/StudentsManagmentController'
+[18:52:52 DBG] Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request did not match any endpoints
+[18:52:52 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T18" completed keep alive response.
+[18:52:52 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 POST https://localhost:7268/api/StudentsManagmentController?ID=56745&Name=Miri&M_ExeList=[{%22ExeNumber%22=1,%22Name%22=%22lesson1%22,%22Mark%22=100,%22Comment%22=%22you%20are%20amazing!%22}]&M_TestGrade={%22ExeNumber%22=99,%22Name%22=%22test%22,%22Mark%22=100,%22Comment%22=%22you%20are%20amazing!%22} - 404 0 null 24.2668ms
+[18:52:52 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7268/api/StudentsManagmentController, Response status code: 404
+[18:53:42 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST https://localhost:7268/api/StudentsManagmentController?ID=56745&Name=Miri&M_ExeList=[{ExeNumber=1,Name=%22lesson1%22,Mark=100,Comment=%22you%20are%20amazing!%22}]&M_TestGrade={ExeNumber=99,Name=%22test%22,Mark=100,Comment=%22you%20are%20amazing!%22} - null 0
+[18:53:42 DBG] Microsoft.AspNetCore.Routing.Matching.DfaMatcher - No candidates found for the request path '/api/StudentsManagmentController'
+[18:53:42 DBG] Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request did not match any endpoints
+[18:53:42 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9KUA0T18" completed keep alive response.
+[18:53:42 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 POST https://localhost:7268/api/StudentsManagmentController?ID=56745&Name=Miri&M_ExeList=[{ExeNumber=1,Name=%22lesson1%22,Mark=100,Comment=%22you%20are%20amazing!%22}]&M_TestGrade={ExeNumber=99,Name=%22test%22,Mark=100,Comment=%22you%20are%20amazing!%22} - 404 0 null 12.6762ms
+[18:53:42 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7268/api/StudentsManagmentController, Response status code: 404
+[18:59:37 DBG] Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory - Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[18:59:37 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting starting
+[18:59:38 INF] Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7268
+[18:59:38 INF] Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5201
+[18:59:38 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly GradeDAL
+[18:59:38 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[18:59:38 DBG] Microsoft.AspNetCore.Hosting.Diagnostics - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[18:59:38 INF] Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+[18:59:38 INF] Microsoft.Hosting.Lifetime - Hosting environment: Development
+[18:59:38 INF] Microsoft.Hosting.Lifetime - Content root path: H:\SERVER\lesson 8 -Summery\GradeDAL\GradeDAL
+[18:59:38 DBG] Microsoft.Extensions.Hosting.Internal.Host - Hosting started
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9OQ56QFJ" received FIN.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9OQ56QFK" received FIN.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFK" accepted.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFJ" accepted.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFK" started.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFJ" started.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFJ" stopped.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFK" stopped.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9OQ56QFJ" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9OQ56QFK" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFL" accepted.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFL" started.
+[18:59:38 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Connection 0HN8L9OQ56QFL established using the following protocol: "Tls12"
+[18:59:38 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/2 GET https://localhost:7268/ - null null
+[18:59:38 DBG] Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware - Wildcard detected, all requests with hosts will be allowed.
+[18:59:39 DBG] Microsoft.AspNetCore.Routing.Matching.DfaMatcher - 1 candidate(s) found for the request path '/'
+[18:59:39 DBG] Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request matched endpoint 'HTTP: GET /'
+[18:59:39 INF] Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HTTP: GET /'
+[18:59:39 INF] Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HTTP: GET /'
+[18:59:39 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/2 GET https://localhost:7268/ - 200 null text/plain; charset=utf-8 157.5122ms
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFM" accepted.
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9OQ56QFM" received FIN.
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFM" started.
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFN" accepted.
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFN" started.
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFM" stopped.
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets - Connection id "0HN8L9OQ56QFM" sending FIN because: "The Socket transport's send loop completed gracefully."
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware - Connection 0HN8L9OQ56QFN established using the following protocol: "Tls12"
+[18:59:46 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET https://localhost:7268/ - null null
+[18:59:46 DBG] Microsoft.AspNetCore.Routing.Matching.DfaMatcher - 1 candidate(s) found for the request path '/'
+[18:59:46 DBG] Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request matched endpoint 'HTTP: GET /'
+[18:59:46 INF] Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'HTTP: GET /'
+[18:59:46 INF] Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'HTTP: GET /'
+[18:59:46 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFN" completed keep alive response.
+[18:59:46 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 GET https://localhost:7268/ - 200 null text/plain; charset=utf-8 15.8169ms
+[19:00:08 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET https://localhost:7268/api/StudentsManagmentController/ - null null
+[19:00:08 DBG] Microsoft.AspNetCore.Routing.Matching.DfaMatcher - No candidates found for the request path '/api/StudentsManagmentController/'
+[19:00:08 DBG] Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware - Request did not match any endpoints
+[19:00:08 DBG] Microsoft.AspNetCore.Server.Kestrel.Connections - Connection id "0HN8L9OQ56QFN" completed keep alive response.
+[19:00:08 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished HTTP/1.1 GET https://localhost:7268/api/StudentsManagmentController/ - 404 0 null 19.8628ms
+[19:00:08 INF] Microsoft.AspNetCore.Hosting.Diagnostics - Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7268/api/StudentsManagmentController/, Response status code: 404
